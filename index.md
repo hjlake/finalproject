@@ -2,19 +2,16 @@
 # Do not edit the text between these lines!
 layout: default
 ---
----
-layout: default
----
-
+<img src="/finalproject/static/imgs/logo.png" alt="Scatterplot of pace and understanding" width="500"/>
 # COMP110 Continuous Improvement Analysis
 
 ## Project Overview
 
-For this project, we analyzed whether adding short pre-lecture videos could improve the learning experience for beginner students in COMP110. We focused on students with little to no prior programming experience and examined three variables from the survey data: course pace, pre-lecture videos, and student understanding.
+For our project, we analyzed whether adding short pre-lecture videos could improve the learning experience for students in COMP110. We focused on students with little to no prior programming experience and examined three variables from the survey data: course pace, pre-lecture videos, and student understanding.
 
 ## Analysis Summary
 
-Our analysis looked at whether students’ ratings of pre-lecture videos and course pace were related to their reported understanding. We filtered the data to focus on beginner students because they are the group most likely to benefit from additional support before lecture.
+In our analysis, we looked at whether students’ ratings of pre-lecture videos and course pace were related to their level of understanding. We filtered the data to focus on beginner students because they are the group most likely to benefit from additional support before lecture.
 
 The first scatterplot compares course pace and understanding. The points are spread out, so there is not a very clear relationship between pace and understanding.
 
