@@ -18,15 +18,15 @@ Our analysis looked at whether students’ ratings of pre-lecture videos and cou
 
 The first scatterplot compares course pace and understanding. The points are spread out, so there is not a very clear relationship between pace and understanding.
 
-<img src="/finalproject/static/imgs/IMG_4349" alt="Scatterplot of pace and understanding" width="500"/>
+<img src="/finalproject/static/imgs/IMG_4349.jpeg" alt="Scatterplot of pace and understanding" width="500"/>
 
 The second scatterplot compares pre-lecture videos and understanding. This graph also does not show a strong or obvious relationship because the points are spread across many values.
 
-<img src="/finalproject/static/imgs/IMG_5578" alt="Scatterplot of pre-lecture videos and understanding" width="500"/>
+<img src="/finalproject/static/imgs/IMG_5578.jpeg" alt="Scatterplot of pre-lecture videos and understanding" width="500"/>
 
 The third visualization shows the average understanding score for each pre-lecture video rating. This graph shows a slight downward trend, where higher ratings of pre-lecture videos are associated with slightly lower average understanding.
 
-<img src="/finalproject/static/imgs/IMG_7052" alt="Bar chart of pre-lecture videos and understanding" width="500"/>
+<img src="/finalproject/static/imgs/IMG_7052.jpeg" alt="Bar chart of pre-lecture videos and understanding" width="500"/>
 
 ## Conclusion
 
